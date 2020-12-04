@@ -20,7 +20,7 @@ let resumeData = {
     "aboutme": "I recently obtained an MS at the University of Glasgow in Software Engineering where I graduated with upper second-class honors." + 
     " My degree at Glasgow equipped me with a comprehensive understanding of object-oriented programming, design principles, best practices, SQL, and relational database management. In addition," + 
     " my research thesis focused on the utilization of neural networks for short-term energy forecasting and was awarded a distinction for excellent research quality. During my thesis I significantly" + 
-    " advanced my fluency in Python as well as my data science proficiencies. I have a significant level of interest in the role software and data can play in developing sustainable infrastucture and I am" +
+    " advanced my fluency in Python as well as my data science proficiencies. I have a significant level of interest in the role software and data can play in developing sustainable infrastructure and I am" +
     " looking for a career where I can help develop quantitative and technical solutions to help enable this transition.",
     "phone":"+1-848-666-3846",
     "email":"castaldochris@gmail.com",
