@@ -30,14 +30,14 @@ let resumeData = {
         "specialization":"MS Software Engineering",
         "MonthOfPassing":"Oct",
         "YearOfPassing":"2020",
-        "Achievements":"Upper Secomnd-Class Honors"
+        "Achievements":"Upper Second-Class Honors"
       },
       {
         "UniversityName":"The University of Bath",
         "specialization":"MS International Management",
         "MonthOfPassing":"Sep",
         "YearOfPassing":"2018",
-        "Achievements":"Upper Secomnd-Class Honors"
+        "Achievements":"Upper Second-Class Honors"
       },
       {
         "UniversityName":"Ohio University",
