@@ -90,7 +90,7 @@ let resumeData = {
       {
         "name":"Machine Learning for Energy Stocks",
         "description":"",
-        "imgurl":"images/Energy.jpg",
+        "imgurl":"images/energy.jpg",
         "url":"https://github.com/Castaldo/Renewable-Energy-Stocks",
       }
     ],
