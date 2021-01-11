@@ -88,10 +88,10 @@ let resumeData = {
         "url":"https://github.com/Castaldo/Top-Trumps",
       },
       {
-        "name":"Machine Learning for Mortgage Qualifications",
+        "name":"Machine Learning for Energy Stocks",
         "description":"",
-        "imgurl":"images/Homes.jpg",
-        "url":"https://github.com/Castaldo/US-Mortgage-Analysis",
+        "imgurl":"images/Energy.jpg",
+        "url":"https://github.com/Castaldo/Renewable-Energy-Stocks",
       }
     ],
   }
